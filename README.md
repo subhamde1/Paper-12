@@ -12,5 +12,5 @@ The File Descriptions are as follows:
          (b) $\mathcal{K}(x)$ for $2\times 10^4 \leq x\leq 10^5$.<br/>
          (c) $\mathcal{L}(x)$ for $2\times 10^4 \leq x\leq 10^5$ for $n=5$.<br/>
          (d) $\mathcal{F}(x)$ for $2\times 10^4 \leq x\leq 10^5$ for $n=5$.<br/>
-         (e) $\mathcal{H}_{n}(x)$ for $2\times 10^4 \leq x\leq 10^5$ for $n=2,3$.<br/>
+         (e) $\mathcal{H_{n}}(x)$ for $2\times 10^4 \leq x\leq 10^5$ for $n=2,3$.<br/>
          (f) $\mathcal{N}_{r}(x)$ for $2\times 10^4 \leq x\leq 10^5$ for $n=5$ and $r=3,4$.
